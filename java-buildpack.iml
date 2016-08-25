@@ -268,11 +268,12 @@
     </content>
     <orderEntry type="jdk" jdkName="rbenv: 2.2.5" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="addressable (v2.4.0, rbenv: 2.2.5) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="ast (v2.3.0, rbenv: 2.2.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="addressable (v2.3.8, rbenv: 2.2.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ast (v2.0.0, rbenv: 2.2.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="astrolabe (v1.3.0, rbenv: 2.2.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.12.5, rbenv: 2.2.5) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="codeclimate-test-reporter (v0.6.0, rbenv: 2.2.5) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="crack (v0.4.3, rbenv: 2.2.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="codeclimate-test-reporter (v0.4.7, rbenv: 2.2.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="crack (v0.4.2, rbenv: 2.2.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.2.5, rbenv: 2.2.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="docile (v1.1.5, rbenv: 2.2.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="hashdiff (v0.3.0, rbenv: 2.2.5) [gem]" level="application" />
